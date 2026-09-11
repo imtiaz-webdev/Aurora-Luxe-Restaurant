@@ -6,10 +6,9 @@ A premium, fully responsive fine dining restaurant front-end website created to 
 
 ## 📸 Website Preview
 
-### Hero Section
-![Hero Section](./screenshots/preview.png)
+<img width="1366" height="684" alt="preview png" src="https://github.com/user-attachments/assets/5b39f76c-1f5d-43d6-945b-0849573e6c42" />
+<img width="1031" height="546" alt="Screenshot 2026-09-11 003447" src="https://github.com/user-attachments/assets/14617bdb-5983-4656-8092-95c8a8a65316" />
 
----
 
 ## ✨ Features
 * **100% Fully Responsive:** Flawlessly displays across mobile devices, tablets, and desktops.
